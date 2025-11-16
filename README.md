@@ -44,8 +44,7 @@ int main() {
 ```
 
 ##OUTPUT
-
-<img width="666" height="123" alt="image" src="https://github.com/user-attachments/assets/a5cfdf49-f317-4ec7-b735-1f50d1ad64c7" />
+![alt text](image.png)
 
 
 
@@ -100,7 +99,7 @@ int main() {
 
 
 ##OUTPUT
-<img width="737" height="300" alt="image" src="https://github.com/user-attachments/assets/4f5c40cd-f078-497c-bda8-41657847edee" />
+![alt text](image-1.png)
 
 
 
